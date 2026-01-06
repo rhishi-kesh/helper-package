@@ -1,5 +1,5 @@
 <?php
-namespace App\Traits;
+namespace Rkb\Helper\Traits;
 
 use Illuminate\Http\Request;
 
