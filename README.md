@@ -5,7 +5,6 @@ A lightweight Laravel helper package by **RKB** to provide reusable helper funct
 It includes:
 
 - File/image upload functions
-- Google image upload
 - Storage file handling
 - Delete image function
 - Slug generation
